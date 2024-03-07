@@ -1,0 +1,3 @@
+Shop_adress_1
+Shop_adress_2
+Shop_adress_3
